@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "纯棉T恤",
+    "price": 59,
+    "pic": "https://xxx.jpg"
+  },
+  {
+    "id": 2,
+    "title": "牛仔裤",
+    "price": 129,
+    "pic": "https://xxx.jpg"
+  }
+]
